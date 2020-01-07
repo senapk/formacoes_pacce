@@ -21,7 +21,7 @@ Insumos | Cartas de Uno. Revistas, papel, canetas, lápis
 
 _**Técnica utilizada: Co-op Co-op**_
 
-
+___
 ### ❷ Dúvidas e Contrato [30 min]
 
 - Contrato de convivência (5 min)
@@ -29,6 +29,7 @@ _**Técnica utilizada: Co-op Co-op**_
 - Explicar sobre as formações do intensivo, bem como aspectos gerais da mesma (5 min)
 - Espaço aberto para os articuladores tirarem dúvidas sobre aspectos gerais do PACCE (10 min)
 
+___
 ### ❸ Criação [30 min]
 - Nesta etapa solicitaremos que os articuladores utilizam os materiais previamente informados que precisaríamos (revistas, cola, tesoura …), para a criação/montagem de **UMA PESSOA(em 3D)**.
 - Essa tarefa deve ser feita individualmente.
@@ -37,6 +38,7 @@ _**Técnica utilizada: Co-op Co-op**_
 
 _**Técnica utilizada: Group Investigation**_
 
+___
 ### ❹ Faça-me rir [20 min]
 - Os facilitadores devem fazer uma pergunta guia para os articuladores:
     - em uma sala de aula onde o professor ainda não chegou e todos os alunos estão disponíveis, você ficaria mais confortável interagindo com as pessoas ou não interagindo?
@@ -46,9 +48,11 @@ _**Técnica utilizada: Group Investigation**_
 
 _**Técnica utilizada: Peer Tutoring**_
 
+___
 ### ❺ Explicação [20 min]
 - Os facilitadores devem falar sobre a Interação Promotora (baseado nos anexos  sobre interação promotora da semana 4, oficina 3, presentes na base de consultas do Trello)  fazendo um link com as atividades feitas anteriormente, procurando sempre a interação dos articuladores fazendo perguntas como: 
     - qual a ligação que vocês fazem entre as atividades e o pilar?
 
+___
 ### ❻ Processamento de grupo [30 min]
 - Os facilitadores devem solicitar que cada articulador fale sobre suas expectativas dentro do programa e sobre o que internalizou da oficina. 
