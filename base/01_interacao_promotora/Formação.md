@@ -3,11 +3,10 @@
 
 ![](image.jpg)
 
-Tempo | 03 horas
--|-
-Participantes| Articuladores de célula
-Objetivo | Proporcionar um momento de tira dúvidas e desejar as boas vindas aos articuladores, além de introduzir a metodologia da Aprendizagem Cooperativa focando no pilar da interação promotora e utilizando as técnicas de aprendizagem cooperativa.
-Insumos | Cartas de Uno. Revistas, papel, canetas, lápis
+- **Tempo**: 03 horas
+- **Participantes**:  Articuladores de célula
+- **Objetivo**: Proporcionar um momento de tira dúvidas e desejar as boas vindas aos articuladores, além de introduzir a metodologia da Aprendizagem Cooperativa focando no pilar da interação promotora e utilizando as técnicas de aprendizagem cooperativa.
+- **Insumos**: Cartas de Uno. Revistas, papel, canetas, lápis
 
 ## Procedimentos
 

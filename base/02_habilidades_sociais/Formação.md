@@ -3,11 +3,10 @@
 
 ![](image.jpg)
 
-Tempo | 03 horas
--|-
-Participantes| Articuladores de célula
-Objetivo | Compreensão satisfatória sobre as Habilidades Sociais e sua importância para as células estudantis
-Insumos | Cartas de Uno. Revistas, papel, canetas, lápis
+- **Tempo**: 03 horas
+- **Participantes**: Articuladores de célula
+- **Objetivo**: Compreensão satisfatória sobre as Habilidades Sociais e sua importância para as células estudantis
+- **Insumos**: Cartas de Uno. Revistas, papel, canetas, lápis
 
 ## Procedimentos
 
