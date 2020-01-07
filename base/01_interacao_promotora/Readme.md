@@ -1,5 +1,5 @@
-# BOAS VINDAS & INTERAÇÃO PROMOTORA
-#### FORMAÇÃO DE ARTICULADORES EM APRENDIZAGEM COOPERATIVA
+# Boas Vindas e Interação Promotora
+#### Formação de Articuladores em Aprendizagem Cooperativa
 
 ![](image.jpg)
 
