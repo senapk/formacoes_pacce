@@ -1,15 +1,14 @@
 # ROTEIRO DE REPOSIÇÃO
 
 OFICINA DA SEMANA 02: BOAS VINDAS E INTERAÇÃO PROMOTORA
-1. Faça uma entrevista com 3 articuladores que tenham ido à formação em questão. O modelo de perguntas estará em anexo (Anexo 1), devendo ser tomado apenas como base.
+1. Faça uma entrevista com 3 articuladores que tenham ido à formação em questão. O modelo de perguntas estará no [Anexo 1](#Anexo-1), devendo ser tomado apenas como base.
 - Além da entrevista, deverá haver um bate-papo com o colega na intenção de que descubram 2 coisas que pensam igual e 2 coisas pensam diferente. (Ex.: Cor ou comida preferida; série ou filme que não gostam; “hobbie” que mais pratica etc.)
-- Baseado na entrevista, no bate-papo e no texto de apoio que estará em anexo (Anexo 2) redija um texto, de no mínimo 4000 e no máximo 5000 caracteres
+- Baseado na entrevista, no bate-papo e no texto de apoio que estará no [Anexo 2](texto_de_apoio.pdf), redija um texto, de no mínimo 4000 e no máximo 5000 caracteres
     - expondo a sua visão sobre como foi a oficina a partir do que foi exposto pelo seu colega;
     - interligando as atividades da mesma com o pilar da Interação Promotora;
     - procurando o significado de suas atividades de reposição para o programa e 
     - fazendo a ligação das mesmas com o pilar estudado.
 
-Texto de apoio: [PDF](texto_de_apoio.pdf)
 
 
 
