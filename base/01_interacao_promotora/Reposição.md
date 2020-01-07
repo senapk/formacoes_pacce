@@ -21,3 +21,6 @@ OFICINA DA SEMANA 02: BOAS VINDAS E INTERAÇÃO PROMOTORA
 - Pergunta 5: Cite exemplos onde a interação promotora está presente e ausente no nosso dia a dia.
 - Pergunta 6: Agora eu direi o que entendi do encontro e do pilar e direi uma palavra que resumiria este encontro pra mim. Peço que me diga os pontos que você concorda e os que discorda para meu melhor entendimento.
 - Pergunta 7: Por fim, qual palavra melhor definiria a oficina pra você? Pensemos em uma palavra diferente da minha e da sua que seja comum a nós dois para a definição da oficina.
+
+
+### Anexo 2 [PDF](texto_de_apoio.pdf)
