@@ -31,7 +31,8 @@
     - [Formação](./geral/12Formação/12.md)
 - 13 Formação Geral
     - [Formação](./geral/13Formação/13.md)
-    - [Anexo 1 e 2](./geral/13Formação/anexos1e2.pdf)
+    - [Anexo 1](./geral/13Formação/anexo1.pdf)
+    - [Anexo 2](./geral/13Formação/anexo2.pdf) 
 - 14 Formação Geral
     - [Formação](./geral/14Formação/14.md)
     - [Anexo 1](./geral/14Formação/anexo1.pdf)
