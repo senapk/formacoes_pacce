@@ -4,7 +4,7 @@
 
 - **Tempo**: 02 horas
 - **Participantes**:  Articuladores de célula
-- **Materiais**: Projetor, papéis A4, canetas
+- **Materiais**: Projetor, caixa de fósforos
 
 ## Procedimentos
 
@@ -20,24 +20,25 @@ Sem falar e com as mãos para trás, o líder terá que observar o desenho e ori
 As equipes terão 5 a 7 minutos para fazer o desenho completo e pausar quando o tempo
 acabar ou alguma equipe terminar.
 Ao final, será apresentado o modelo e comparado com os feitos da equipe. Será analisado o processo de trabalho em equipe e a qualidade e preocupação do líder para a mesma.
-Reconhecer a importância do trabalho do líder e como cooperar e confiar em suas escolhas, podendo ajudar sempre que necessário e tornar o trabalho eficaz.
+Reconhecer a importância do trabalho do líder e como cooperar e confiar em suas escolhas, podendo ajudar sempre que necessário e tornar o trabalho eficaz. <br>
+![](im1.PNG)
 
 
-### ❷ INTRODUÇÃO 
-Video de LoL sobre Liderança( https://www.youtube.com/watch?v=eKjX9sRU7x8&amp ;).
-Pedir para que os participantes da interação possam comentar e perceber
-semelhanças entre o líder do jogo e um líder em situações reais.
-Pedir também para que cada membro cite um exemplo onde se passou por uma
-situação de liderança(ou viu alguém exercendo essa função).
-Segunda Atividade:
-Os articuladores da reunião deverão apresentar uma breve introdução da diferença
-entre um líder e um chefe. A imagem a seguir os orienta.
+### ❷ ASSISTINDO O VÍDEO
+Video de LoL sobre Liderança https://www.youtube.com/watch?v=eKjX9sRU7x8&amp <br>
+Pedir para que os participantes da interação possam comentar e perceber semelhanças entre o líder do jogo e um líder em situações reais.
+Pedir também para que cada membro cite um exemplo onde se passou por uma situação de liderança (ou viu alguém exercendo essa função).
 
-Após isso os articuladores deverão distribuir o para os participantes anexo 1: Como
-ser um líder sem chatear seus integrantes.
-Atividade Final
-Dividir em 2 grupos, o primeiro grupo vai falar um exemplo de liderança positiva e o grupo 2
-um exemplo de liderança negativa.
+### ❸ DISCUSSÃO
+Os articuladores da reunião deverão apresentar uma breve introdução da diferença entre um líder e um chefe. A imagem a seguir os orienta.
+<br> ![](im2.PNG)
 
-### ❸ PROCESSAMENTO DE GRUPO 
+### ❹ ANÁLISE
+Os articuladores deverão distribuir para os participantes [Anexo 1](ANEXO1.pdf): Como ser um líder sem chatear seus integrantes.
+
+### ❺ COLOCANDO EM PRÁTICA 
+Dividir em 2 grupos, o primeiro grupo vai falar um exemplo de liderança positiva e o grupo 2 um exemplo de liderança negativa.
+
+###  PROCESSAMENTO EM GRUPO
+
 
