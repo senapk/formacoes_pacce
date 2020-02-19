@@ -1,12 +1,34 @@
 # Oficinas Base
 
 - 01 Interação Promotora
-    - [Formação](./base/01_interacao_promotora/Formação.md)
-    - [Reposição](./base/01_interacao_promotora/Reposição.md)
-    - [Texto complementar](./base/01_interacao_promotora/texto_de_apoio.pdf)
+    - [Formação](./base/interacao_promotora/Formacao.md)
+    - [Reposição](./base/interacao_promotora/Reposicao.md)
+    - [Anexo](./base/interacao_promotora/Anexo.pdf)
 - 02 Habilidades Sociais
-    - [Formação](./base/02_habilidades_sociais/Formação.md)
-    - [Reposição](./base/02_habilidades_sociais/Reposição.md)
+    - [Formação](./base/habilidades_sociais/Formacao.md)
+    - [Reposição](./base/habilidades_sociais/Reposicao.md)
+- 03 Interdependência Positiva
+    - [Formação](./base/interdependencia_positiva/Formacao.md)
+    - [Reposição](./base/interdependencia_positiva/Reposicao.md)
+    - [Anexo](./base/interdependencia_positiva/Anexo.md)
+- 04 Responsabilidade Individual
+    - [Formação](./base/responsabilidade_individual/Formacao.md)
+    - [Reposição](./base/responsabilidade_individual/Reposicao.md)
+    - [Anexo](./base/responsabilidade_individual/Anexo.md)
+- 05 Processamento de grupo
+    - [Formação](./base/processamento_de_grupo/Formacao.md)
+    - [Reposição](./base/processamento_de_grupo/Reposicao.md)
+    - [Anexo](./base/processamento_de_grupo/Anexo.md)
+    - [Anexo Feedback](./base/processamento_de_grupo/anexo_feedback.pdf)
+    - [Anexo Frases](./base/processamento_de_grupo/anexo_frases.pdf)
+- 06 Técnicas em aprendizagem cooperativa
+    - [Formação](./base/tecnicas_em_ac/Formacao.md)
+    - [Reposição](./base/tecnicas_em_ac/Reposicao.md)
+    - [Anexo](./base/tecnicas_em_ac/Anexo.md)
+- 07 História de Vida
+    - [Formação](./base/historia_de_vida/Formacao.md)
+    - [Reposição](./base/historia_de_vida/Reposicao.md)
+
 
 # Oficinas Gerais
 - 01 Formação Geral
