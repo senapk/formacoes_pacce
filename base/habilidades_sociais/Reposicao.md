@@ -29,13 +29,13 @@ O conjunto de habilidades sociais relevantes pode ser organizado em classes e
 subclasses de maior ou menor abrangência. Entre as principais classes, destacamos (A.
 Del Prette & Del Prette, 2001):
 
-- as habilidades de comunicação
+- habilidades de comunicação
     - fazer e responder perguntas, dar e pedir feedback, elogiar, iniciar, manter e encerrar conversação
-- as habilidades de civilidade
+- habilidades de civilidade
     - dizer por favor, agradecer, apresentar-se, cumprimentar
-- as habilidades assertivas de enfrentamento
+- habilidades assertivas de enfrentamento
     - expressar opinião, discordar, fazer e recusar, pedidos, interagir com autoridades, lidar com críticas, expressar desagrado, lidar com raiva do grupo, pedir mudança de comportamento, etc 
-- as habilidades empáticas e de expressão de sentimento positivo
+- habilidades empáticas e de expressão de sentimento positivo
     - interpretar e compreender seus sentimentos e pensamentos, disposição para ajudar o outro, oferecer ajuda contato visual, postura, reciprocidade 
 - habilidades de trabalho
     - coordenação de grupo, falar em público

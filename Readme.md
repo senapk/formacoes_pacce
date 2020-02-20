@@ -21,7 +21,7 @@
     - [Anexo](./base/processamento_de_grupo/Anexo.md)
     - [Anexo Feedback](./base/processamento_de_grupo/anexo_feedback.pdf)
     - [Anexo Frases](./base/processamento_de_grupo/anexo_frases.pdf)
-- 06 Técnicas em aprendizagem cooperativa
+- 06 Técnicas em Aprendizagem Cooperativa
     - [Formação](./base/tecnicas_em_ac/Formacao.md)
     - [Reposição](./base/tecnicas_em_ac/Reposicao.md)
     - [Anexo](./base/tecnicas_em_ac/Anexo.md)
@@ -31,60 +31,90 @@
 
 
 # Oficinas Gerais
-- 01 Formação Geral
-    - [Formação](./geral/01Formação/01.md)
-- 03 Formação Geral
-    - [Formação](./geral/03Formação/03.md)
-    - [Anexo 1](./geral/03Formação/anexo1.pdf)
-- 07 Formação Geral
-    - [Formação](./geral/07Formação/07.md)
-- 08 Formação Geral
-    - [Formação](./geral/08Formação/08.md)
-- 09 Formação Geral
-    - [Formação](./geral/09Formação/09.md)
-    - [Anexo 1](./geral/09Formação/Anexo_1.pdf)
-    - [Anexo 2](./geral/09Formação/Anexo_2.pdf) 
-- 10 Formação Geral
-    - [Formação](./geral/10Formação/10.md) 
-- 11 Formação Geral
-    - [Formação](./geral/11Formação/11.md)
-    - [Anexo 1](./geral/11Formação/ideias.pdf)
-- 12 Formação Geral
-    - [Formação](./geral/12Formação/12.md)
-- 13 Formação Geral
-    - [Formação](./geral/13Formação/13.md)
+
+- 01 Planejamento em Equipe
+    - [Formação](./geral/planejameno/formacao.md)
+- 02 Divulgação
+    - [Formação](./geral/divulgacao/formacao.md)
+    - [Anexo 1](./geral/divulgacao/anexo1.pdf)
+- 03 Trabalho em Equipe
+    - [Formação](./geral/trabalho1/formacao.md)
+- 04 Trabalho em equipe II
+    - [Formação](./geral/trabalho2/formacao.md)
+- 05 Comunicação
+    - [Formação](./geral/comunicacao/formacao.md)
+- 06 Empatia
+    - [Formação](./geral/empatia1/formacao.md)
+- 07 Empatia II
+    - [Formação](./geral/empatia2/formacao.md)
+    - [Anexo 1](./geral/empatia2/anexo1.pdf)
+    - [Anexo 2](./geral/empatia2/anexo2.pdf)
+- 08 Empatia III
+    - [Formação](./geral/empatia3/formacao.md)
+    - [Anexo 1](./geral/empatia3/anexo1.pdf)
+    - [Anexo 2](./geral/empatia3/anexo2.pdf)
+- 09 História de vida
+    - [Formação](./geral/historia1/formacao.md) 
+- 10 História de Vida II
+    - [Formação](./geral/historia2/formacao.md)
+- 11 Amizade
+    - [Formação](./geral/amizade/formacao.md)
+    - [Anexo 1](./geral/38Formação/anexo1.pdf)
+- 12 Confiança
+    - [Formação](./geral/confianca/formacao.md)
+    - [Anexo 1](./geral/confianca/anexo1.pdf)
+- 13 Autonomia
+    - [Formação](./geral/autonomia/formacao.md)
+    - [Anexo 1](./geral/autonomia/anexo1.pdf)
+- 14 Conflitos
+    - [Formação](./geral/conflitos/formacao.md)
+    - [Anexo 1](./geral/conflitos/anexo1.pdf)
+    - [Anexo 2](./geral/conflitos/anexo2.pdf)
+- 15 Valorização
+    - [Formação](./geral/valorizacao/formacao.md)
+    - [Anexo 1](./geral/valorizacao/anexo1.pdf)
+- 16 Passou a calourada e agora?
+    - [Formação](./geral/passou/formacao.md)
+    - [Anexo 1](./geral/passou/ideias.pdf)
+- 17 Online
+    - [Formação](./geral/online/formacao.md)
+- 18 Proatividade 
+    - [Formação](./geral/proatividade/formacao.md)
     - [Anexo 1](./geral/13Formação/anexo1.pdf)
     - [Anexo 2](./geral/13Formação/anexo2.pdf) 
-- 14 Formação Geral
-    - [Formação](./geral/14Formação/14.md)
-    - [Anexo 1](./geral/14Formação/anexo1.pdf)
-- 16 Formação Geral
-    - [Formação](./geral/16Formação/16.md)
-    - [Anexo 1](./geral/16Formação/anexo1.pdf)
-    - [Anexo 2](./geral/16Formação/anexo2.pdf) 
-- 33 Formação Geral
-    - [Formação](./geral/33Formação/33.md)
-    - [Anexo 1](./geral/33Formação/anexo1.pdf)
-- 34 Formação Geral
-    - [Formação](./geral/34Formação/34.md)
-    - [Anexo 1](./geral/34Formação/anexo1.pdf)
-- 35 Formação Geral
-    - [Formação](./geral/35Formação/35.md)
-    - [Anexo 1](./geral/35Formação/anexo1.pdf)
-- 36 Formação Geral
-    - [Formação](./geral/36Formação/36.md)
-- 37 Formação Geral
-    - [Formação](./geral/37Formação/37.md)
-    - [Anexo 1](./geral/37Formação/anexo1.pdf)
-    - [Anexo 2](./geral/37Formação/anexo2.pdf)
-- 38 Formação Geral
-    - [Formação](./geral/38Formação/38.md)
-    - [Anexo 1](./geral/38Formação/anexo1.pdf)
-    - [Anexo 2](./geral/38Formação/anexo2.pdf) 
-- 39 Formação Geral
-    - [Formação](./geral/39Formação/39.md)
-- 40 Formação Geral
-    - [Formação](./geral/40Formação/40.md)
-- 41 Formação Geral
-    - [Formação](./geral/41Formação/41.md)
+- 19 Liderança
+    - [Formação](./geral/lideranca/formacao.md)
+    - [Anexo 1](./geral/lideranca/anexo1.pdf)
+- 20 Percepção do tempo e estado de presença
+    - [Formação](./geral/percepcao/formacao.md)
+    - [Anexo 1](./geral/percepcao/anexo1.pdf)
+    - [Anexo 2](./geral/percepcao/anexo2.pdf) 
+- 21 O artigo científico
+    - [Formação](./geral/artigo/formacao.md)
+    - [Anexo 1](./geral/artigo/anexo1.pdf)
+- 22 Artigo I
+    - [Formação](./geral/artigo1/formacao.md)
+    - [Anexo 1](./geral/artigo1/anexo1.pdf)
+- 23 Artigo II
+    - [Formação](./geral/artigo2/formacao.md)
+    - [Anexo 1](./geral/artigo2/anexo1.pdf)
+- 24 Introdução
+    - [Formação](./geral/introducao/formacao.md)
+    - [Anexo 1](./geral/introducao/anexo1.pdf)
+- 25 Correção da Introdução em Par
+    - [Formação](./geral/correcao/formacao.md)
+    - [Anexo 1](./geral/correcao/anexo1.pdf)
+- 26 Metodologia
+    - [Formação](./geral/metodologia/formacao.md)
+    - [Anexo 1](./geral/metodologia/anexo1.pdf)
+    - [Anexo 2](./geral/metodologia/anexo2.pdf)
+- 27 Resultados e Análise de Resultados
+    - [Formação](./geral/resultados1/formacao.md)
+- 28 Resultados e Análise de Resultados
+    - [Formação](./geral/resultados2/formacao.md)
+    - [Anexo 1](./geral/resultados2/Anexo_1.pdf)
+    - [Anexo 2](./geral/resultados2/Anexo_2.pdf) 
+
+
+
         
